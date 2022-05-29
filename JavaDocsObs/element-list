@@ -1,0 +1,8 @@
+module:com.isaacflores.application
+com.isaacflores.application.db
+com.isaacflores.application.entities
+module:com.isaacflores.controller
+com.isaacflores.controller.ui
+module:com.isaacflores.view
+com.isaacflores.view.gui
+com.isaacflores.view.panels
